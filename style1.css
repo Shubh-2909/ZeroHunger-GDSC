@@ -1,0 +1,45 @@
+.body{
+    background-image: url("paris.gif");
+    position: relative;
+}
+
+.sc{
+    opacity: 0;
+}
+.logo{
+    top: 10px;
+    left:15px;
+}
+.seven{
+    top: 450px;
+}
+.icon{
+    top:500px;
+}
+.pie{
+    left: 45px;
+    bottom: 65px;
+}
+.st{
+    position: absolute;
+    left: 115px;
+    font-size: 35px;
+    top:5px;
+    
+}
+.tr{
+    position: absolute;
+    font-size: 35px;
+    top: 65px;
+    left:-55px;
+}
+.login{
+    top: 50%;
+    opacity: 0;
+}
+.good{
+    opacity: 1;
+}
+.loginbtn{
+    top: 15px;
+}
