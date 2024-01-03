@@ -42,6 +42,7 @@
     
     const bodyElement = document.querySelector('.body');
     const scElement = document.querySelector('.sc');
+    const loginclk = document.querySelector('.loginbtn')
 
 scElement.addEventListener('mouseover', () => {
     const linkElement = document.createElement('link');
@@ -49,7 +50,20 @@ scElement.addEventListener('mouseover', () => {
     linkElement.href = 'style1.css';
     document.head.appendChild(linkElement);
 });
+loginclk.addEventListener('click', () => {
+    const linkElement = document.createElement('link');
+    linkElement.rel = 'stylesheet';
+    linkElement.href = 'style2.css';
+    document.head.appendChild(linkElement);
 
+});
+bodyElement.addEventListener('dblclick', () => {
+    const linkElement = document.createElement('link');
+    linkElement.rel = 'stylesheet';
+    linkElement.href = 'style3.css';
+    document.head.appendChild(linkElement);
+
+});
         
     
 </script>
