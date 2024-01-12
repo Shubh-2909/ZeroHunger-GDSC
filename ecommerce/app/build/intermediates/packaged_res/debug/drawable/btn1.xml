@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:btn-grad="http://schemas.android.com/aapt">
+    <style>
+        <btn-grad>
+            <background-image tools:ignore="ExtraText">linear-gradient(to right, #e52d27 0%, #b31217 51%, #e52d27 100%)</background-image>
+            <margin>10px</margin>
+            <padding>15px 45px</padding>
+            <text-align>center</text-align>
+            <text-transform>uppercase</text-transform>
+            <transition>0.5s</transition>
+            <background-size>200% auto</background-size>
+            <color>white</color>
+            <box-shadow>0 0 20px #eee</box-shadow>
+            <border-radius>10px</border-radius>
+            <display>block</display>
+        </btn-grad>
+        <btn-grad:hover>
+            <background-position>right center</background-position>
+            <color>#fff</color>
+            <text-decoration>none</text-decoration>
+        </btn-grad:hover>
+    </style>
+</selector>

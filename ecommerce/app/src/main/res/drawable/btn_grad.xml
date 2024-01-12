@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style android:name="BtnGrad">
+        <item android:name="android:background">@drawable/btn_grad_background</item>
+        <item android:name="android:layout_margin">10dp</item>
+        <item android:name="android:padding">15dp 45dp</item>
+        <item android:name="android:textAlignment">center</item>
+        <item android:name="android:textAllCaps">true</item>
+        <item android:name="android:transitionName">transitionName</item>
+        <item android:name="android:backgroundSize">200% auto</item>
+        <item android:name="android:textColor">@android:color/white</item>
+        <item android:name="android:shadowColor">#eee</item>
+        <item android:name="android:shadowDx">0</item>
+        <item android:name="android:shadowDy">0</item>
+        <item android:name="android:shadowRadius">20</item>
+        <item android:name="android:radius">10dp</item>
+        <item android:name="android:visibility">visible</item>
+    </style>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/qwe"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+
+        android:layout_height="match_parent"
+
+        android:id="@+id/firstlay"
+        android:orientation="vertical">
+
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/TabLayoutAuth"
+            android:layout_width="match_parent"
+            android:layout_height="20dp"
+            android:layout_marginTop="0dp"
+            android:backgroundTint="#DAEFFA" />
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/ViewPagerAuth"
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            >
+
+
+        </androidx.viewpager2.widget.ViewPager2>
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/jui"
+            android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

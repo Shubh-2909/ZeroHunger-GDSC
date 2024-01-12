@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/white"
+    android:elevation="4dp"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
+
+    <!-- Logo -->
+    <ImageView
+        android:id="@+id/logo_image"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:src="@drawable/flipkart_logo" />
+
+    <!-- Title -->
+    <TextView
+        android:id="@+id/toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:layout_marginStart="8dp"
+        android:gravity="center_vertical" />
+
+    <!-- Search Button -->
+
+
+    <!-- Cart Button -->
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Cart"
+        android:backgroundTint="@color/black"
+        android:padding="10dp" />
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Cart"
+        android:backgroundTint="@color/white"
+        android:padding="10dp" />
+
+    <Button
+        android:id="@+id/clear"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="clear cart"
+        android:backgroundTint="@color/black"
+        android:paddingHorizontal="200dp"
+        android:paddingLeft="20dp"
+        android:padding="10dp" />
+
+</androidx.appcompat.widget.Toolbar>

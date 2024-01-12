@@ -1,0 +1,6 @@
+com.example.app.test.app-core-1.5.0-0 C:\Users\LENOVO\.gradle\caches\transforms-3\53527951520d4d9fc9985ef36b39e31d\transformed\core-1.5.0\res
+com.example.app.test.app-annotation-experimental-1.3.0-1 C:\Users\LENOVO\.gradle\caches\transforms-3\e047569aec89bc305062c2a7a1fea0e5\transformed\annotation-experimental-1.3.0\res
+com.example.app.test.app-androidTest-2 D:\ecommerce\app\build\generated\res\resValues\androidTest\debug
+com.example.app.test.app-mergeDebugAndroidTestResources-3 D:\ecommerce\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.app.test.app-mergeDebugAndroidTestResources-4 D:\ecommerce\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.app.test.app-merged_res-5 D:\ecommerce\app\build\intermediates\merged_res\debugAndroidTest

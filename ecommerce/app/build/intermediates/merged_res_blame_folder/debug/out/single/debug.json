@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "com.example.app-merged_res-52:/xml_backup_rules.xml.flat",
+        "source": "com.example.app-main-54:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_facebook_icon.png.flat",
+        "source": "com.example.app-main-54:/drawable/facebook_icon.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_second5.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_second5.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_bcker.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/bcker.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_main4.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_main4.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_grid_item_layout2.xml.flat",
+        "source": "com.example.app-main-54:/layout/grid_item_layout2.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.app-main-54:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.app-main-54:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.app-main-54:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_ic_cart.png.flat",
+        "source": "com.example.app-main-54:/drawable/ic_cart.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_edittext_border.xml.flat",
+        "source": "com.example.app-main-54:/drawable/edittext_border.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_ic_search.png.flat",
+        "source": "com.example.app-main-54:/drawable/ic_search.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_default_image.png.flat",
+        "source": "com.example.app-main-54:/drawable/default_image.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_jui.png.flat",
+        "source": "com.example.app-main-54:/drawable/jui.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_vendor_list.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_vendor_list.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_second.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_main3.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.app-main-54:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.app-main-54:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_flipkart_logo.png.flat",
+        "source": "com.example.app-main-54:/drawable/flipkart_logo.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.app-main-54:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_asd.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/asd.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/navigation_nav_graph2.xml.flat",
+        "source": "com.example.app-main-54:/navigation/nav_graph2.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_login.png.flat",
+        "source": "com.example.app-main-54:/drawable/login.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_io.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/io.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/navigation_nav_graph5.xml.flat",
+        "source": "com.example.app-main-54:/navigation/nav_graph5.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_cart_item.xml.flat",
+        "source": "com.example.app-main-54:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_second3.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_second3.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_login1.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_login1.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_fullscreen.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_fullscreen.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_bckjuk.xml.flat",
+        "source": "com.example.app-main-54:/drawable/bckjuk.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_content_main.xml.flat",
+        "source": "com.example.app-main-54:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_content_landing.xml.flat",
+        "source": "com.example.app-main-54:/layout/content_landing.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_first.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_toolbar_layout.xml.flat",
+        "source": "com.example.app-main-54:/drawable/toolbar_layout.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_first3.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_first3.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_bckju.xml.flat",
+        "source": "com.example.app-main-54:/drawable/bckju.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_bgy.png.flat",
+        "source": "com.example.app-main-54:/drawable/bgy.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_grid_item_layout.xml.flat",
+        "source": "com.example.app-main-54:/layout/grid_item_layout.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.app-main-54:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_opp.png.flat",
+        "source": "com.example.app-main-54:/drawable/opp.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_profile.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_yui.png.flat",
+        "source": "com.example.app-main-54:/drawable/yui.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_martini.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/martini.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_first4.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_first4.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_storepremovebgpreview.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/storepremovebgpreview.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_vendor.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_vendor.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_flipkart_banner.png.flat",
+        "source": "com.example.app-main-54:/drawable/flipkart_banner.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.app-main-54:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_intro.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_viewlist.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_viewlist.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_signup.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/navigation_nav_graph3.xml.flat",
+        "source": "com.example.app-main-54:/navigation/nav_graph3.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_storeremovebgpreview.png.flat",
+        "source": "com.example.app-main-54:/drawable/storeremovebgpreview.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_cart.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/navigation_nav_graph.xml.flat",
+        "source": "com.example.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_login.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_landing.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_landing.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_store.png.flat",
+        "source": "com.example.app-main-54:/drawable/store.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_first5.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_first5.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_btn_grad.xml.flat",
+        "source": "com.example.app-main-54:/drawable/btn_grad.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_footer_layout.xml.flat",
+        "source": "com.example.app-main-54:/layout/footer_layout.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_btn1.xml.flat",
+        "source": "com.example.app-main-54:/drawable/btn1.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_second2.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_content_main2.xml.flat",
+        "source": "com.example.app-main-54:/layout/content_main2.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/navigation_nav_graph4.xml.flat",
+        "source": "com.example.app-main-54:/navigation/nav_graph4.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_arc.xml.flat",
+        "source": "com.example.app-main-54:/drawable/arc.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_yup.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/yup.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_product_item_layout.xml.flat",
+        "source": "com.example.app-main-54:/layout/product_item_layout.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_content_main3.xml.flat",
+        "source": "com.example.app-main-54:/layout/content_main3.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_list_item_product.xml.flat",
+        "source": "com.example.app-main-54:/layout/list_item_product.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_bliss.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/bliss.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_qwe.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/qwe.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_cv.jpg.flat",
+        "source": "com.example.app-main-54:/drawable/cv.jpg"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_content_intro.xml.flat",
+        "source": "com.example.app-main-54:/layout/content_intro.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_storelremovebgpreview.png.flat",
+        "source": "com.example.app-main-54:/drawable/storelremovebgpreview.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_first2.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_first2.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_btnbrg.xml.flat",
+        "source": "com.example.app-main-54:/drawable/btnbrg.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_btn_grad_background.xml.flat",
+        "source": "com.example.app-main-54:/drawable/btn_grad_background.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_main2.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_fragment_second4.xml.flat",
+        "source": "com.example.app-main-54:/layout/fragment_second4.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_ic_twitter.png.flat",
+        "source": "com.example.app-main-54:/drawable/ic_twitter.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/drawable_online_shopping.png.flat",
+        "source": "com.example.app-main-54:/drawable/online_shopping.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.app-main-54:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_activity_main.xml.flat",
+        "source": "com.example.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.app-merged_res-52:/layout_toolbar_layout.xml.flat",
+        "source": "com.example.app-main-54:/layout/toolbar_layout.xml"
+    }
+]

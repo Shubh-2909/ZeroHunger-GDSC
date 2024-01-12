@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#F6F6F6"
+    android:padding="30dp"
+    tools:context=".signup">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:backgroundTint="#568970"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="20dp">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/mmnk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Email"
+                android:padding="45dp"
+                android:textColorHint="@color/white"
+android:background="@drawable/bckjuk"
+                app:boxStrokeColor="@color/white"
+
+                app:startIconTint="@color/white">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etmmnk"
+                    android:layout_width="260dp"
+                    android:layout_height="56dp"
+                    android:inputType="textEmailAddress"
+                    android:textColorHint="@color/black"
+                    android:textColor="@color/black"
+                    android:background="@drawable/bckjuk">
+
+                </com.google.android.material.textfield.TextInputEditText>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/password"
+                style="@style/Widget.Design.TextInputLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/mmnk"
+                android:hint="enter the password"
+                android:padding="45dp"
+                android:textColorHint="@color/white"
+                app:boxStrokeColor="@color/white"
+                app:endIconMode="password_toggle"
+                android:background="@drawable/bckjuk"
+                app:endIconTint="@color/black"
+                app:startIconTint="#22154c">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/etpassword"
+                    android:layout_width="274dp"
+                    android:layout_height="48dp"
+                    android:inputType="textPassword"
+                    android:textColorHint="@color/black"
+                    android:textColor="@color/black"
+                    android:textStyle="bold"
+                    android:background="@drawable/bckjuk">
+
+                </com.google.android.material.textfield.TextInputEditText>
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/btn"
+                android:layout_width="match_parent"
+
+
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/password"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_grad_background"
+                android:fontFamily="sans-serif-black"
+                android:padding="10dp"
+                android:radius="20dp"
+                android:shadowColor="#eee"
+
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="40"
+                android:text="SIGNUP"
+                android:textAlignment="center"
+                android:textAllCaps="true"
+                android:textColor="@android:color/white"
+                android:textStyle="bold"
+                android:transformPivotX="@dimen/cardview_compat_inset_shadow"
+                android:transitionName="@string/fab_transformation_scrim_behavior"
+                android:visibility="visible" />
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/yui"/>
+
+
+        </RelativeLayout>
+    </LinearLayout>
+    <!-- TODO: Update blank fragment layout -->
+
+
+</ScrollView>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="@drawable/qwe"
+    tools:context=".profile">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+
+        android:id="@+id/profile_image"
+        android:layout_width="139dp"
+        android:layout_height="144dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="120dp"
+        android:src="@drawable/default_image"
+        app:civ_border_color="#6dd5ed"
+        app:civ_border_width="4dp" />
+
+    <ImageView
+        android:id="@+id/editimg"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/opp"
+        android:layout_marginTop="170dp"
+        android:layout_marginStart="210dp"/>
+
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/profile_image"
+        android:layout_marginStart="90dp"
+        android:layout_marginTop="27dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/bckju"
+        android:hint="your name goes here"
+        android:padding="20dp"
+        android:textColor="@color/black"
+
+        android:textColorHint="@color/black"
+        tools:ignore="TextSizeCheck" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_below="@+id/name"
+        android:id="@+id/status"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:layout_marginStart="100dp"
+        android:hint="your_status"
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
+        android:background="@drawable/bckju"
+        android:padding="20dp"
+
+        />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="190dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/statustr"
+        android:text="change"
+        android:id="@+id/updatebtn"
+        android:visibility="gone"
+        android:background="#2c3e50"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:textStyle="italic"/>
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_width="190dp"
+        android:id="@+id/savebtn"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/updatebtn"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="save"
+        android:visibility="gone"
+        android:layout_marginTop="50dp"
+        android:background="#48b1bf"
+        android:textColor="@color/white"
+        android:padding="10dp"
+        android:textStyle="italic"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/nametr"
+        android:layout_below="@id/status"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        android:hint="enter_name"
+        android:textColorHint="@color/black"
+        app:boxStrokeColor="@color/black"
+        app:endIconMode="clear_text"
+        app:endIconTint="@color/black"
+        app:startIconTint="#22154c">
+
+        <com.google.android.material.textfield.TextInputEditText
+
+            android:id="@+id/etname"
+            android:layout_width="260dp"
+            android:layout_height="58dp"
+            android:inputType="textEmailAddress"
+            android:textColorHint="@color/black">
+
+        </com.google.android.material.textfield.TextInputEditText>
+    </com.google.android.material.textfield.TextInputLayout>
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/statustr"
+
+        android:visibility="gone"
+        android:layout_below="@+id/nametr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_status"
+        android:textColorHint="@color/black"
+        app:boxStrokeColor="@color/black"
+        app:endIconMode="clear_text"
+        app:endIconTint="@color/black"
+        app:startIconTint="#22154c">
+
+        <com.google.android.material.textfield.TextInputEditText
+
+            android:id="@+id/etstatus"
+            android:layout_width="260dp"
+            android:layout_height="58dp"
+            android:inputType="textEmailAddress"
+            android:textColorHint="@color/black">
+
+        </com.google.android.material.textfield.TextInputEditText>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+</RelativeLayout>

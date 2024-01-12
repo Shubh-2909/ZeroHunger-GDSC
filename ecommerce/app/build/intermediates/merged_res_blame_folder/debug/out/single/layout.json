@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/content_main3.xml",
+        "source": "com.example.app-main-54:/layout/content_main3.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_main3.xml",
+        "source": "com.example.app-main-54:/layout/activity_main3.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_viewlist.xml",
+        "source": "com.example.app-main-54:/layout/activity_viewlist.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_first3.xml",
+        "source": "com.example.app-main-54:/layout/fragment_first3.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_login1.xml",
+        "source": "com.example.app-main-54:/layout/fragment_login1.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_profile.xml",
+        "source": "com.example.app-main-54:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/content_main.xml",
+        "source": "com.example.app-main-54:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_intro.xml",
+        "source": "com.example.app-main-54:/layout/activity_intro.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/content_intro.xml",
+        "source": "com.example.app-main-54:/layout/content_intro.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_fullscreen.xml",
+        "source": "com.example.app-main-54:/layout/activity_fullscreen.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_login.xml",
+        "source": "com.example.app-main-54:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/grid_item_layout2.xml",
+        "source": "com.example.app-main-54:/layout/grid_item_layout2.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_second3.xml",
+        "source": "com.example.app-main-54:/layout/fragment_second3.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_first.xml",
+        "source": "com.example.app-main-54:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/list_item_product.xml",
+        "source": "com.example.app-main-54:/layout/list_item_product.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.example.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/content_main2.xml",
+        "source": "com.example.app-main-54:/layout/content_main2.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_main2.xml",
+        "source": "com.example.app-main-54:/layout/activity_main2.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_second2.xml",
+        "source": "com.example.app-main-54:/layout/fragment_second2.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/cart_item.xml",
+        "source": "com.example.app-main-54:/layout/cart_item.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/product_item_layout.xml",
+        "source": "com.example.app-main-54:/layout/product_item_layout.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_first5.xml",
+        "source": "com.example.app-main-54:/layout/fragment_first5.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_second5.xml",
+        "source": "com.example.app-main-54:/layout/fragment_second5.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_first2.xml",
+        "source": "com.example.app-main-54:/layout/fragment_first2.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/content_landing.xml",
+        "source": "com.example.app-main-54:/layout/content_landing.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_landing.xml",
+        "source": "com.example.app-main-54:/layout/activity_landing.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_main4.xml",
+        "source": "com.example.app-main-54:/layout/activity_main4.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/footer_layout.xml",
+        "source": "com.example.app-main-54:/layout/footer_layout.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_first4.xml",
+        "source": "com.example.app-main-54:/layout/fragment_first4.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_second.xml",
+        "source": "com.example.app-main-54:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_signup.xml",
+        "source": "com.example.app-main-54:/layout/fragment_signup.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/fragment_second4.xml",
+        "source": "com.example.app-main-54:/layout/fragment_second4.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/grid_item_layout.xml",
+        "source": "com.example.app-main-54:/layout/grid_item_layout.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_vendor_list.xml",
+        "source": "com.example.app-main-54:/layout/activity_vendor_list.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/toolbar_layout.xml",
+        "source": "com.example.app-main-54:/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_cart.xml",
+        "source": "com.example.app-main-54:/layout/activity_cart.xml"
+    },
+    {
+        "merged": "com.example.app-mergeDebugResources-51:/layout/activity_vendor.xml",
+        "source": "com.example.app-main-54:/layout/activity_vendor.xml"
+    }
+]
