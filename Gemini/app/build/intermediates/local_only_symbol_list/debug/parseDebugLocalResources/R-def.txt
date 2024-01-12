@@ -1,0 +1,36 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn1
+id btn2
+id conditionTextView
+id currentConditions
+id currentTemperature
+id fiveDayForecastRecyclerView
+id hourlyForecastRecyclerView
+id main
+id temperatureTextView
+id timeTextView
+id updateWeatherButton
+layout activity_main
+layout activity_main2
+layout item_hourly_forecast
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_go
+string app_name
+string select_image
+string summarize
+string summarize_hint
+string summarize_label
+style Theme.Geminitry
+xml backup_rules
+xml data_extraction_rules
